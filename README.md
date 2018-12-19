@@ -1,6 +1,8 @@
 # page-not-found-sample
 this is angular samlpe that page not found(404)
 
+code form blog: [Angular Smart 404 Page](https://blog.angularindepth.com/angular-smart-404-page-85a45b109fd8)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
 ## Development server
